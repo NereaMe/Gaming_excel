@@ -4,7 +4,7 @@ A descriptive analysis of a video game dataset was conducted to gain insights in
 This analysis was crucial in identifying potential misallocations of resources due to incorrect data interpretation. 
 I could identify the best-performing markets and develop a new strategy.
 
-__Status Quo_
+_Status Quo_
 GameCo currently prioritizes NA (North America) as the most significant market, allocating the majority of the budget to it, based on its historical dominance.
 When analyzing yearly sales, a distinct perspective emerges, revealing how they have misinterpreted their numbers.
 _RECOMMENDATIONS_
